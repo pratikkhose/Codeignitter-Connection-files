@@ -1,0 +1,30 @@
+.active1{
+	box-shadow: 0 0 5px white;
+}
+
+.box{
+	border : 2px solid skyblue;
+}
+
+.box-inner{
+	
+	box-shadow :0 0 10px red;
+}
+
+td , th{
+	text-align: center;
+}
+
+.text-violet{
+	color: #563d7c;
+}
+
+.bg-violet{
+	background-color:#563d7c ; 
+}
+body{
+    font-family:Verdana;
+}
+h1{
+    font-family:Algerian;
+}
